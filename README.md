@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://Divyangsuraniblogs.vercel.app/" target="_blank">Divyangsuraniblogs.vercel.app</a>
+  <a href="https://bits-of-code-gamma.vercel.app/" target="_blank">Divyangsuraniblogs.vercel.app</a>
 </h2>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="[http://blogs.soumya-jit.tech/](https://bits-of-code-gamma.vercel.app/)" target="_blank">blogs.Divyangsurani.tech</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="(https://bits-of-code-gamma.vercel.app/)" target="_blank">blogs.Divyangsurani.tech</a> which features some of my developer blog posts and experiences.<br/>
 
 This project was built using these technologies.
 
