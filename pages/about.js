@@ -1,6 +1,6 @@
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
-import { FaLaptop, FaTwitter } from "react-icons/fa";
+import { FaLaptop, FaInstagram } from "react-icons/fa";
 import { getAllTopics } from "../Lib/Data";
 
 export const getStaticProps = () => {
@@ -47,12 +47,12 @@ function about({ topics }) {
           </button>
 
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-indigo-600">
-            <FaTwitter />
+            <FaInstagram />
             <a
-              className="twitter-follow-button"
+              className="instagram-follow-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/DivyangSur47663"
+              href="https://www.instagram.com/__imdivyang13/"
             >
               Follow Me
             </a>
